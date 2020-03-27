@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29905.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "DesktopToastWorkerService", "DesktopToastWorkerService\DesktopToastWorkerService.csproj", "{F7CC53D2-F190-4ABD-945F-8265B62BC605}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DesktopToastNotification", "DesktopToastNotification\DesktopToastNotification.csproj", "{0743070F-578D-49AA-81D7-EE4390B57077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F7CC53D2-F190-4ABD-945F-8265B62BC605}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7CC53D2-F190-4ABD-945F-8265B62BC605}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7CC53D2-F190-4ABD-945F-8265B62BC605}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7CC53D2-F190-4ABD-945F-8265B62BC605}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0743070F-578D-49AA-81D7-EE4390B57077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0743070F-578D-49AA-81D7-EE4390B57077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0743070F-578D-49AA-81D7-EE4390B57077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0743070F-578D-49AA-81D7-EE4390B57077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BA2CFCD3-1F84-40C2-844F-4B27EFB771AE}
+	EndGlobalSection
+EndGlobal
